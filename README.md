@@ -35,8 +35,8 @@
 | :---: | :---: |
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinhThien2011&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/MinhThien2011) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhThien2011&layout=compact&theme=buefy&hide_border=true)](https://github.com/MinhThien2011) |
 
+### 🏆 GitHub Trophies
 <p align="center">
-    ### 🏆 GitHub Trophies
     <img src="https://github-profile-trophy.vercel.app/?username=MinhThien2011&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
